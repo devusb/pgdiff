@@ -11,4 +11,5 @@ require (
 	github.com/ogier/pflag v0.0.1
 	github.com/stvp/assert v0.0.0-20170616060220-4bc16443988b // indirect
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
+	golang.org/x/sys v0.2.0 // indirect
 )
